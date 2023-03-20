@@ -1,0 +1,57 @@
+C:\Users\student\Documents\мур\UserControlRes\UserControlRes\obj\Debug\UserControlRes.csproj.AssemblyReference.cache
+C:\Users\student\Documents\мур\UserControlRes\UserControlRes\obj\Debug\UserControlRes.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Documents\мур\UserControlRes\UserControlRes\obj\Debug\MainWindow.g.cs
+C:\Users\student\Documents\мур\UserControlRes\UserControlRes\obj\Debug\App.g.cs
+C:\Users\student\Documents\мур\UserControlRes\UserControlRes\obj\Debug\UserControlRes_MarkupCompile.cache
+C:\Users\student\Documents\мур\UserControlRes\UserControlRes\obj\Debug\UserControlRes_MarkupCompile.lref
+C:\Users\student\Documents\мур\UserControlRes\UserControlRes\bin\Debug\UserControlRes.exe.config
+C:\Users\student\Documents\мур\UserControlRes\UserControlRes\bin\Debug\UserControlRes.exe
+C:\Users\student\Documents\мур\UserControlRes\UserControlRes\bin\Debug\UserControlRes.pdb
+C:\Users\student\Documents\мур\UserControlRes\UserControlRes\obj\Debug\RhombusControl.g.cs
+C:\Users\student\Documents\мур\UserControlRes\UserControlRes\obj\Debug\MainWindow.baml
+C:\Users\student\Documents\мур\UserControlRes\UserControlRes\obj\Debug\RhombusControl.baml
+C:\Users\student\Documents\мур\UserControlRes\UserControlRes\obj\Debug\UserControlRes.g.resources
+C:\Users\student\Documents\мур\UserControlRes\UserControlRes\obj\Debug\UserControlRes.Properties.Resources.resources
+C:\Users\student\Documents\мур\UserControlRes\UserControlRes\obj\Debug\UserControlRes.csproj.GenerateResource.cache
+C:\Users\student\Documents\мур\UserControlRes\UserControlRes\obj\Debug\UserControlRes.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\мур\UserControlRes\UserControlRes\obj\Debug\UserControlRes.exe
+C:\Users\student\Documents\мур\UserControlRes\UserControlRes\obj\Debug\UserControlRes.pdb
+C:\Users\student\Documents\мур\UserControlRes\UserControlRes\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\rasle\Downloads\tomasshelby-main\tomasshelby-main\UserControlRes\bin\Debug\UserControlZaitsev.exe.config
+C:\Users\rasle\Downloads\tomasshelby-main\tomasshelby-main\UserControlRes\bin\Debug\UserControlZaitsev.exe
+C:\Users\rasle\Downloads\tomasshelby-main\tomasshelby-main\UserControlRes\bin\Debug\UserControlZaitsev.pdb
+C:\Users\rasle\Downloads\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\UserControlRes.csproj.AssemblyReference.cache
+C:\Users\rasle\Downloads\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\UserControlRes.csproj.SuggestedBindingRedirects.cache
+C:\Users\rasle\Downloads\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\MainWindow.g.cs
+C:\Users\rasle\Downloads\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\RhombusControl.g.cs
+C:\Users\rasle\Downloads\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\App.g.cs
+C:\Users\rasle\Downloads\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\rasle\Downloads\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\UserControlZaitsev_MarkupCompile.cache
+C:\Users\rasle\Downloads\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\UserControlZaitsev_MarkupCompile.lref
+C:\Users\rasle\Downloads\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\MainWindow.baml
+C:\Users\rasle\Downloads\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\RhombusControl.baml
+C:\Users\rasle\Downloads\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\UserControlZaitsev.g.resources
+C:\Users\rasle\Downloads\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\UserControlZaitsev.Properties.Resources.resources
+C:\Users\rasle\Downloads\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\UserControlRes.csproj.GenerateResource.cache
+C:\Users\rasle\Downloads\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\UserControlRes.csproj.CoreCompileInputs.cache
+C:\Users\rasle\Downloads\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\UserControlZaitsev.exe
+C:\Users\rasle\Downloads\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\UserControlZaitsev.pdb
+C:\Users\rasle\OneDrive\Рабочий стол\tomasshelby-main\tomasshelby-main\UserControlRes\bin\Debug\UserControlZaitsev.exe.config
+C:\Users\rasle\OneDrive\Рабочий стол\tomasshelby-main\tomasshelby-main\UserControlRes\bin\Debug\UserControlZaitsev.exe
+C:\Users\rasle\OneDrive\Рабочий стол\tomasshelby-main\tomasshelby-main\UserControlRes\bin\Debug\UserControlZaitsev.pdb
+C:\Users\rasle\OneDrive\Рабочий стол\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\UserControlRes.csproj.AssemblyReference.cache
+C:\Users\rasle\OneDrive\Рабочий стол\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\UserControlRes.csproj.SuggestedBindingRedirects.cache
+C:\Users\rasle\OneDrive\Рабочий стол\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\MainWindow.g.cs
+C:\Users\rasle\OneDrive\Рабочий стол\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\RhombusControl.g.cs
+C:\Users\rasle\OneDrive\Рабочий стол\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\App.g.cs
+C:\Users\rasle\OneDrive\Рабочий стол\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\rasle\OneDrive\Рабочий стол\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\UserControlZaitsev_MarkupCompile.cache
+C:\Users\rasle\OneDrive\Рабочий стол\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\UserControlZaitsev_MarkupCompile.lref
+C:\Users\rasle\OneDrive\Рабочий стол\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\MainWindow.baml
+C:\Users\rasle\OneDrive\Рабочий стол\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\RhombusControl.baml
+C:\Users\rasle\OneDrive\Рабочий стол\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\UserControlZaitsev.g.resources
+C:\Users\rasle\OneDrive\Рабочий стол\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\UserControlZaitsev.Properties.Resources.resources
+C:\Users\rasle\OneDrive\Рабочий стол\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\UserControlRes.csproj.GenerateResource.cache
+C:\Users\rasle\OneDrive\Рабочий стол\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\UserControlRes.csproj.CoreCompileInputs.cache
+C:\Users\rasle\OneDrive\Рабочий стол\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\UserControlZaitsev.exe
+C:\Users\rasle\OneDrive\Рабочий стол\tomasshelby-main\tomasshelby-main\UserControlRes\obj\Debug\UserControlZaitsev.pdb
